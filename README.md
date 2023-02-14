@@ -1,4 +1,4 @@
-#Shopping cart functionality of the e-commerce application
+**Shopping cart functionality of the e-commerce application**
 
 This code is a simple e-commerce application that allows a user to add products to a shopping cart and display the total amount of the products in the cart. It's built using React, a popular JavaScript library for building user interfaces.
 
