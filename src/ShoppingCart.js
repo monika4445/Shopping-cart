@@ -1,5 +1,3 @@
-import React from "react";
-
 function ShoppingCart({ cart, setCart }) {
   const removeFromCart = (index) => {
     const newCart = [...cart];

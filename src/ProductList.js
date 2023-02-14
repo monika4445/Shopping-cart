@@ -1,5 +1,3 @@
-import React from "react";
-
 function ProductList({ addToCart }) {
   const products = [
     { name: "Product 1", price: 10 },
